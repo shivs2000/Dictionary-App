@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Dictionary-App/static/js/main.d24bfc5c.chunk.js",
+    "main.js.map": "/Dictionary-App/static/js/main.d24bfc5c.chunk.js.map",
+    "runtime-main.js": "/Dictionary-App/static/js/runtime-main.8d6746b4.js",
+    "runtime-main.js.map": "/Dictionary-App/static/js/runtime-main.8d6746b4.js.map",
+    "static/js/2.3b89b337.chunk.js": "/Dictionary-App/static/js/2.3b89b337.chunk.js",
+    "static/js/2.3b89b337.chunk.js.map": "/Dictionary-App/static/js/2.3b89b337.chunk.js.map",
+    "static/js/3.0584f11c.chunk.js": "/Dictionary-App/static/js/3.0584f11c.chunk.js",
+    "static/js/3.0584f11c.chunk.js.map": "/Dictionary-App/static/js/3.0584f11c.chunk.js.map",
+    "index.html": "/Dictionary-App/index.html",
+    "static/js/2.3b89b337.chunk.js.LICENSE.txt": "/Dictionary-App/static/js/2.3b89b337.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6746b4.js",
+    "static/js/2.3b89b337.chunk.js",
+    "static/js/main.d24bfc5c.chunk.js"
+  ]
+}
